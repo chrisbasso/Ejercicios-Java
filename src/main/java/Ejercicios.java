@@ -4,7 +4,7 @@ public class Ejercicios {
 
     // sumar dos numeros
     public static int suma(int numero1, int numero2) {
-        return 0;
+        return numero1 + numero2;
     }
 
     //Función que verifica si un número es capicua
@@ -58,6 +58,9 @@ public class Ejercicios {
     // es valido reutilizar las funciones anteriores si las necesitas
     public static boolean sonAnagramas(String palabra1, String palabra2) {
         return false;
-    }
-
+    } //ahhh y me lo das a mi hdp jajaja yo menos
+    //fuaaaaaa y de donde lo sacaste a este ?
+    //pero yo con mis conocimientos no creo poder  no tengo el poder sifuciente ah
+    // dale igual este lo agarro el finde para divertirme ah jajaj con el fernet en mano
+// como hago para abrir esto ? onda toco el IDE y aparece automatico aca o que onda ?  por que nunca lo use a este
 }
